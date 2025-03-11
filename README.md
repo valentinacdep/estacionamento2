@@ -1,1 +1,5 @@
-# estacionamento2
+Requisitos funcionais: RF1 - O usuário pode cadastrar seu perfil; RF2 - O usuário pode logar o seu perfil; RF3 - O usuario cadastrar seu carro com as informações de placa, cor e vaga; RF4 - O usuário pode editar as informações do carro; RF5 - O usuário pode excluir o seu carro; RF6 - O usuário pode escplher sua vaga;
+
+Requisitos não funcionais: RNF1 - O sistema é fácil de usar. RNF2 - O sistema deve estar disponível sempre que necessário.
+
+Dificuldades: As dificuldades que eu tive foi principlamente com o login e o cadastro, as rota estão funcionando no thunder clint, mas não funcionam no front, tentei arrumar de tudo que foi jeito mas não deu. Sobre o login e o cadsatro, ambos os dois não parecem ter nenhum erro nem no js nem no html, mas não estão funcionando, o login tá invertendo as informações e sempre que eu tento cadastrar algum usuário que já está cadastrado no banco, ele da a informção de "não foi possível logar", sendo que deveria estar sendo possível porque o usuário já existe, o mesmo problema para o cadastro.
